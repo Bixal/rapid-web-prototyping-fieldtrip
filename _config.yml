@@ -1,0 +1,24 @@
+# Set a plain language title for the site.
+title: Rapid prototyping for the web using the U.S. Web Design System
+
+# Write a short description for the site. This is used for "meta description."
+description: Presentation slides and background information for an event hosted by the Rapid Response Team at Bixal.
+
+# Set the language for the site. Used for "html lang." Default is English.
+lang: en
+
+# Add Google Analytics if needed. Replace placeholder with site ID.
+ga: UA-XXXXX-Y
+
+# Avoid GitHub API authentication when building locally. (Not working)
+github: [metadata]
+
+# Enable for live hosting on GitHub Pages
+baseurl: /rapid-prototyping-with-uswds-event
+
+# Remove generation of additional style.css
+theme: null
+
+collections:
+  slides:
+    output: true
