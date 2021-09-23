@@ -14,7 +14,7 @@ ga: UA-XXXXX-Y
 github: [metadata]
 
 # Enable for live hosting on GitHub Pages
-baseurl: /rapid-prototyping-with-uswds-fieldtrip
+baseurl: /rapid-web-prototyping-fieldtrip
 
 # Remove generation of additional style.css
 theme: null
