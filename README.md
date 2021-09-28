@@ -141,5 +141,5 @@ Here are some other things you can do once you get the hang of it:
 - [Jekyll](https://jekyllrb.com/)
 - [Rapid Response Team](https://github.com/Bixal/rapid-response-team/wiki)
     - [Brianna](https://www.linkedin.com/in/bnaolu/)
-    - [Kayla](https://www.linkedin.com/in/kayla-chumley/)
+    - [Demi](https://www.linkedin.com/in/demi-brown-johnson/)
     - [Philip](https://twitter.com/pglevy)
