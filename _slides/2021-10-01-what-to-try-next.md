@@ -1,5 +1,5 @@
 ---
-title: What to try next
+title: Going further
 template: text
 heading-level: 3
 background-color: none
