@@ -4,6 +4,7 @@ template: text
 heading-level: 3
 background-color: light-blue
 text-color: purple
+notes: "Link to presentation: <a href='https://github.com/Bixal/rapid-web-prototyping-fieldtrip'>https://github.com/Bixal/rapid-web-prototyping-fieldtrip</a>"
 ---
 
 - [U.S. Web Design System](https://designsystem.digital.gov/)
